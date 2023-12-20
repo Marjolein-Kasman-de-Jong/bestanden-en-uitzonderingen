@@ -1,5 +1,5 @@
 # Bestanden en uitzonderingen
-## Crash Course Programmeren In Python: Chapter 10
+## Crash Course Programmeren In Python
 
 ### Description
 
