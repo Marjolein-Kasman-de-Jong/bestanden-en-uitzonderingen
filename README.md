@@ -1,4 +1,4 @@
-# Bestanden en uitzonderingen
+# Bestanden En Uitzonderingen
 ## Crash Course Programmeren In Python
 
 ### Description
